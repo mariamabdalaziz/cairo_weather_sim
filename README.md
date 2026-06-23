@@ -88,5 +88,5 @@ Name: Mariam Abd El-Aziz
 
     Published author, Data Scientist and MSc of Sustainable Development with concentration in green technologies. 
 
-GitHub Profile: TBC
+
 
